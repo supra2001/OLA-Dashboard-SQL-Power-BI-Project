@@ -56,10 +56,10 @@ FROM bookings
 GROUP BY Customer_ID
 ORDER BY total_rides DESC
 LIMIT 5;
+```
+--- 
 
----
-
-The full .sql file also includes views for each business question (e.g., Successful_Bookings, Top_5_Customers, UPI_Payment) to modularize the workflow.
+- The full .sql file also includes views for each business question (e.g., Successful_Bookings, Top_5_Customers, UPI_Payment) to modularize the workflow.
 
 ---
 
