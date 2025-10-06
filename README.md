@@ -13,7 +13,6 @@ Ola_Dashboard_Project :
 - 📄 business_queries.sql # SQL queries & views for business questions
 - 📄 ola_dashboard.pbix # Power BI dashboard file
 - 📄 ola_dashboard.pdf # Exported PDF of dashboard
-- 📁 slides/ # 5 images for quick presentation
 - 📄 README.md # Project documentation
 
 ---
