@@ -3,7 +3,7 @@
 ## 📌 Project Overview  
 This project demonstrates how **SQL** was used to answer **business questions** on Ola ride-hailing data, and how the results were transformed into an **interactive Power BI dashboard** for visualization.  
 
-![Demo](assets/pbi_linkdin.mp4)
+![Demo](assets/assets\demo.gif)
 
 The aim was to explore booking performance, cancellation reasons, revenue patterns, and ratings to derive actionable insights.  
 
